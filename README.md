@@ -50,6 +50,13 @@ O projeto está organizado da seguinte forma:
 
 
 📬 Contato
+
+----------
+
 Desenvolvido por Jorge Guilherme Bernardi
+
+----------
+
+
 📧 jguilherme200643@gmail.com
 🔗 LinkedIn (br.linkedin.com/in/jorgeguilhermebernardi)
